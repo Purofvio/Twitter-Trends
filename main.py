@@ -1,4 +1,8 @@
 __author__ = 'Purofvio'
 
-print 'Hello World'
+import settings
+
+
+print settings.connection_string
+
 
